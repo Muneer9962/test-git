@@ -1,1 +1,1 @@
-# test-git
+I just started learning GIT
